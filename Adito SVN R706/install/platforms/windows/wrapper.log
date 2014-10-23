@@ -1,0 +1,32 @@
+FATAL  | wrapper  | 2011/04/23 23:07:11 | unable to open configuration file. ../../../C:\adito-0.9.1-svn-r706\adito/conf/wrapper.conf
+FATAL  | wrapper  | 2011/04/23 23:10:18 | unable to open configuration file. ../../../C:\adito-0.9.1-svn-r706\adito/conf/wrapper.conf
+STATUS | wrapper  | 2011/04/23 23:13:13 | --> Wrapper Started as Console
+STATUS | wrapper  | 2011/04/23 23:13:13 | Launching a JVM...
+INFO   | jvm 1    | 2011/04/23 23:13:13 | java.lang.NoClassDefFoundError: com/adito/boot/Bootstrap
+INFO   | jvm 1    | 2011/04/23 23:13:13 | Caused by: java.lang.ClassNotFoundException: com.adito.boot.Bootstrap
+INFO   | jvm 1    | 2011/04/23 23:13:13 | 	at java.net.URLClassLoader$1.run(Unknown Source)
+INFO   | jvm 1    | 2011/04/23 23:13:13 | 	at java.security.AccessController.doPrivileged(Native Method)
+INFO   | jvm 1    | 2011/04/23 23:13:13 | 	at java.net.URLClassLoader.findClass(Unknown Source)
+INFO   | jvm 1    | 2011/04/23 23:13:13 | 	at java.lang.ClassLoader.loadClass(Unknown Source)
+INFO   | jvm 1    | 2011/04/23 23:13:13 | 	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+INFO   | jvm 1    | 2011/04/23 23:13:13 | 	at java.lang.ClassLoader.loadClass(Unknown Source)
+INFO   | jvm 1    | 2011/04/23 23:13:13 | Could not find the main class: com.adito.boot.Bootstrap.  Program will exit.
+INFO   | jvm 1    | 2011/04/23 23:13:13 | Exception in thread "main" 
+ERROR  | wrapper  | 2011/04/23 23:13:13 | JVM exited while loading the application.
+STATUS | wrapper  | 2011/04/23 23:13:18 | Launching a JVM...
+INFO   | jvm 2    | 2011/04/23 23:13:18 | java.lang.NoClassDefFoundError: com/adito/boot/Bootstrap
+INFO   | jvm 2    | 2011/04/23 23:13:18 | Caused by: java.lang.ClassNotFoundException: com.adito.boot.Bootstrap
+INFO   | jvm 2    | 2011/04/23 23:13:18 | 	at java.net.URLClassLoader$1.run(Unknown Source)
+INFO   | jvm 2    | 2011/04/23 23:13:18 | 	at java.security.AccessController.doPrivileged(Native Method)
+INFO   | jvm 2    | 2011/04/23 23:13:18 | 	at java.net.URLClassLoader.findClass(Unknown Source)
+INFO   | jvm 2    | 2011/04/23 23:13:18 | 	at java.lang.ClassLoader.loadClass(Unknown Source)
+INFO   | jvm 2    | 2011/04/23 23:13:18 | 	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+INFO   | jvm 2    | 2011/04/23 23:13:18 | 	at java.lang.ClassLoader.loadClass(Unknown Source)
+INFO   | jvm 2    | 2011/04/23 23:13:18 | Could not find the main class: com.adito.boot.Bootstrap.  Program will exit.
+INFO   | jvm 2    | 2011/04/23 23:13:18 | Exception in thread "main" 
+ERROR  | wrapper  | 2011/04/23 23:13:18 | JVM exited while loading the application.
+STATUS | wrapper  | 2011/04/23 23:13:20 | CTRL-C trapped.  Shutting down.
+STATUS | wrapper  | 2011/04/23 23:13:20 | <-- Wrapper Stopped
+FATAL  | wrapper  | 2011/04/23 23:14:55 | unable to open configuration file. ../../../C:\adito-0.9.1-svn-r706\adito/conf/wrapper.conf
+FATAL  | wrapper  | 2011/04/24 00:36:03 | unable to open configuration file. ../../../C:\adito-0.9.1-svn-r706\adito/conf/wrapper.conf
+FATAL  | wrapper  | 2011/04/24 00:37:39 | unable to open configuration file. ../../../C:\adito-0.9.1-svn-r706\adito/conf/wrapper.conf

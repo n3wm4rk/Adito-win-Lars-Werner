@@ -1,0 +1,4 @@
+25-09-2014 09:18:40 [main] INFO  LogBootProgressMonitor - Loading system properties
+25-09-2014 09:18:40 [main] INFO  LogBootProgressMonitor - Intialising logging
+25-09-2014 09:18:40 [main] INFO  LogBootProgressMonitor - Clearing temporary files
+25-09-2014 09:18:40 [main] INFO  Main - Clearing temporary directory
